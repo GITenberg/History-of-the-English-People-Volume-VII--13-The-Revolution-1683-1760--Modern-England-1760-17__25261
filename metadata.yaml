@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7099
     wikipedia: http://en.wikipedia.org/wiki/John_Richard_Green
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25261#History-of-the-English-People-Volume-VII--13-The-Revolution-1683-1760--Modern-England-1760-17_
 gutenberg_issued: '2008-04-30'
 gutenberg_type: Text
 identifiers:
